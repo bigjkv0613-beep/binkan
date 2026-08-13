@@ -1,0 +1,8 @@
+{
+  "name": "한국철도공사 철도물류통합정보시스템",
+  "description": "한국철도공사(KORAIL)의 친환경 스마트 철도물류통합정보시스템 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
